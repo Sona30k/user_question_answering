@@ -45,5 +45,6 @@ An interactive web app where you can upload a **PDF** or enter a custom **text p
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/qa-streamlit-app.git
-cd qa-streamlit-app
+git clone https://github.com/Sona30k/user_question_answering.git
+cd user_question_answer
+streamlit run app.py
