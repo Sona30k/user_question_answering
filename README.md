@@ -36,6 +36,9 @@ An interactive web app where you can upload a **PDF** or enter a custom **text p
 ### ❓ Ask a Question and View the Answer
 ![Answer Screenshot](screenshots/src2.png)
 
+### ❓ Generate 5 question based on the input
+![Answer Screenshot](screenshots/src3.png)
+
 ---
 
 ## 🔧 Installation
