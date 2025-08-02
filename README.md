@@ -26,6 +26,4 @@ This project is a lightweight **Question Answering (QA)** system built using **D
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/question-answering-system.git
-cd question-answering-system
+
