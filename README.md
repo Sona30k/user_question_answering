@@ -19,12 +19,9 @@ An interactive web app where you can upload a **PDF** or enter a custom **text p
 
 | Task                | Model                                      | Description                                                                 |
 |---------------------|--------------------------------------------|-----------------------------------------------------------------------------|
-| Question Answering  | `distilbert-base-uncased-distilled-squad`  | A distilled version of BERT trained on SQuAD. Lightweight, fast, and accurate. |
-| Question Generation | `valhalla/t5-small-qg-prepend`             | A T5-small model fine-tuned for question generation with prepended prompts. |
+| Question Answering  | `deepset/roberta-base-squad2`              | A distilled version of BERT trained on SQuAD. Lightweight, fast, and accurate. |
+| Question Generation | `valhalla/t5-base-qg-hl`                   | A T5-small model fine-tuned for question generation with prepended prompts. |
 
-> ✅ *If you want better performance, consider switching to:*
-- For QA: `deepset/roberta-base-squad2`
-- For QG: `iarfmoose/t5-base-question-generator` or `valhalla/t5-base-qg-hl`
 
 ---
 
@@ -36,7 +33,7 @@ An interactive web app where you can upload a **PDF** or enter a custom **text p
 ### ❓ Ask a Question and View the Answer
 ![Answer Screenshot](screenshots/src2.png)
 
-### ❓ Generate 5 question based on the input
+### ❓ Generate 5 Questions based on the Input
 ![Answer Screenshot](screenshots/src3.png)
 
 ---
